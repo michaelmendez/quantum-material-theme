@@ -1,10 +1,10 @@
-# 🌌 Quantum Material Theme
+# ⚛️ Quantum Material Theme
 
 > A sleek, modern dark theme inspired by quantum physics and material design principles
 
 Quantum Material Theme brings the elegance of material design to your coding environment with a sophisticated dark color palette that reduces eye strain while maintaining excellent readability and syntax highlighting.
 
-## ✨ Features
+## 📋 Features
 
 - **🎨 Carefully crafted color palette** - Deep quantum-inspired blues and purples with high contrast
 - **👁️ Reduced eye strain** - Optimized for long coding sessions
@@ -95,12 +95,6 @@ Found a bug or have a suggestion? Please [open an issue](https://github.com/mich
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Inspired by Material Design principles
-- Color theory research from quantum physics visualizations
-- Community feedback and contributions
 
 ---
 
