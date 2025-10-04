@@ -31,7 +31,7 @@ Quantum Material Theme brings the elegance of material design to your coding env
 ### Via Command Palette
 
 1. Open **Command Palette** (`Ctrl+Shift+P`)
-2. Type `ext install michael-mendez.quantum-material-theme`
+2. Type `ext install michaelmendez.quantum-material-theme`
 3. Press **Enter**
 
 ### Manual Installation

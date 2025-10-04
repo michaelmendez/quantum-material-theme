@@ -2,8 +2,8 @@
   "name": "quantum-material-theme",
   "displayName": "Quantum Material Theme",
   "description": "🌌 A beautiful dark theme inspired by quantum physics and material design - featuring ocean blues and cosmic purples for optimal coding experience",
-  "version": "0.0.1",
-  "publisher": "michael-mendez",
+  "version": "0.0.2",
+  "publisher": "michaelmendez",
   "author": {
     "name": "Michael Mendez",
     "url": "https://github.com/michaelmendez"
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/michaelmendez/quantum-material-theme/issues"
   },
-  "icon": "sample.png",
+  "icon": "logo.png",
   "galleryBanner": {
     "color": "#101119",
     "theme": "dark"
@@ -46,7 +46,6 @@
     "programming"
   ],
   "preview": false,
-  "activationEvents": [],
   "contributes": {
     "themes": [
       {
