@@ -1,0 +1,59 @@
+{
+  "name": "quantum-material-theme",
+  "displayName": "Quantum Material Theme",
+  "description": "🌌 A beautiful dark theme inspired by quantum physics and material design - featuring ocean blues and cosmic purples for optimal coding experience",
+  "version": "0.0.1",
+  "publisher": "michael-mendez",
+  "author": {
+    "name": "Michael Mendez",
+    "url": "https://github.com/michaelmendez"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/michaelmendez/quantum-material-theme#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelmendez/quantum-material-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/michaelmendez/quantum-material-theme/issues"
+  },
+  "icon": "sample.png",
+  "galleryBanner": {
+    "color": "#101119",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "material",
+    "quantum",
+    "ocean",
+    "blue",
+    "purple",
+    "cosmic",
+    "syntax",
+    "highlighting",
+    "color-scheme",
+    "ui-theme",
+    "developer",
+    "coding",
+    "programming"
+  ],
+  "preview": false,
+  "activationEvents": [],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Quantum Material Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/quantum-material-theme-ocean.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "files.exclude": {
+        "out": false,
+        "node_modules": true,
+        "*.vsix": true
+    },
+    "search.exclude": {
+        "out": true,
+        "node_modules": true,
+        "*.vsix": true
+    },
+    "typescript.preferences.includePackageJsonAutoImports": "off",
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "package.json"
+            ],
+            "url": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/package.json"
+        },
+        {
+            "fileMatch": [
+                "themes/*.json"
+            ],
+            "url": "vscode://schemas/color-theme"
+        }
+    ],
+    "files.associations": {
+        "*.json": "jsonc"
+    }
+}
