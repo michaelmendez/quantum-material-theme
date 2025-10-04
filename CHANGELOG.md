@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.3] - 2025-10-03
+
+### Added
+- ✨ Custom logo design for the extension
+- 📸 Updated theme preview screenshot with better examples
+
+### Changed
+- 🎨 Improved visual branding with new logo
+- 📱 Enhanced marketplace presentation
+
+## [0.0.2] - 2025-10-03
+
 ### Added
 - Initial release of Quantum Material Theme
 - Dark theme with ocean-inspired color palette

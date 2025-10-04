@@ -45,12 +45,12 @@ Quantum Material Theme brings the elegance of material design to your coding env
 
 The theme uses a carefully selected color palette designed for optimal contrast and readability:
 
-| Element | Hex Code | Preview |
-|---------|----------|---------|
-| Background | `#101119` | ![#101119](https://via.placeholder.com/20/101119/101119.png) |
-| Primary Blue | `#739cf0` | ![#739cf0](https://via.placeholder.com/20/739cf0/739cf0.png) |
-| Text | `#EEEEEE` | ![#EEEEEE](https://via.placeholder.com/20/EEEEEE/EEEEEE.png) |
-| Comments | `#666666` | ![#666666](https://via.placeholder.com/20/666666/666666.png) |
+| Element | Hex Code |
+|---------|----------|
+| Background | `#101119` |
+| Primary Blue | `#739cf0` |
+| Text | `#EEEEEE` |
+| Comments | `#666666` |
 
 ## 🛠️ Customization
 
