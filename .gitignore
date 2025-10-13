@@ -57,5 +57,4 @@ src/
 *.md
 !README.md
 !CHANGELOG.md
-sample-*
 .github/

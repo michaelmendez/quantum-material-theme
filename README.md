@@ -1,23 +1,27 @@
 # ⚛️ Quantum Material Theme
 
-> A sleek, modern dark theme inspired by quantum physics and material design principles
+> A sleek, modern theme inspired by quantum physics and material design principles
 
-Quantum Material Theme brings the elegance of material design to your coding environment with a sophisticated dark color palette that reduces eye strain while maintaining excellent readability and syntax highlighting.
+Quantum Material Theme brings the elegance of material design to your coding environment with a sophisticated color palette that reduces eye strain while maintaining excellent readability and syntax highlighting. Available in both dark and light variants to match your coding preference.
 
 ## 📋 Features
 
 - **🎨 Carefully crafted color palette** - Deep quantum-inspired blues and purples with high contrast
+- **🌓 Dark & Light themes** - Choose between dark and light variants based on your preference
 - **👁️ Reduced eye strain** - Optimized for long coding sessions
 - **🔍 Enhanced readability** - Clear distinction between different code elements
 - **🎯 Semantic highlighting** - Consistent color coding across all languages
 - **🌙 True dark theme** - Perfect for low-light environments
+- **☀️ Clean light theme** - Elegant light variant for bright environments
 - **⚡ Performance optimized** - Lightweight and fast loading
 
 ## 📸 Screenshots
 
-![Quantum Material Theme Preview](https://raw.githubusercontent.com/michaelmendez/quantum-material-theme/main/sample.png)
+### Dark Theme
+![Quantum Material Theme Dark](https://raw.githubusercontent.com/michaelmendez/quantum-material-theme/main/sample-dark.png)
 
-*Quantum Material Theme in action with popular languages like JavaScript, Python, React, and more.*
+### Light Theme
+![Quantum Material Theme Light](https://raw.githubusercontent.com/michaelmendez/quantum-material-theme/main/sample-light.png)
 
 ## 🚀 Installation
 
@@ -26,7 +30,7 @@ Quantum Material Theme brings the elegance of material design to your coding env
 1. Open **Extensions** sidebar panel in VS Code (`Ctrl+Shift+X`)
 2. Search for `Quantum Material Theme`
 3. Click **Install** to install it
-4. Go to **File** > **Preferences** > **Theme** > **Color Theme** and select `Quantum Material Theme`
+4. Go to **File** > **Preferences** > **Theme** > **Color Theme** and select `Quantum Material Theme` (Dark) or `Quantum Material Theme Light`
 
 ### Via Command Palette
 
@@ -45,12 +49,48 @@ Quantum Material Theme brings the elegance of material design to your coding env
 
 The theme uses a carefully selected color palette designed for optimal contrast and readability:
 
+### Dark Theme
 | Element | Hex Code |
 |---------|----------|
 | Background | `#101119` |
 | Primary Blue | `#739cf0` |
 | Text | `#EEEEEE` |
 | Comments | `#666666` |
+
+### Light Theme
+| Element | Hex Code |
+|---------|----------|
+| Background | `#fafafa` |
+| Primary Blue | `#4b7bdb` |
+| Text | `#263238` |
+| Comments | `#90a4ae` |
+
+## 💡 Recommended Setup
+
+For the best experience, I recommend pairing this theme with the following extensions and settings:
+
+### Font
+- **[FiraCode Nerd Font](https://www.nerdfonts.com/font-downloads)** - A monospaced font with programming ligatures and Nerd Font icons
+
+Add to your VS Code settings:
+```json
+{
+  "editor.fontFamily": "'FiraCode NF', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true
+}
+```
+
+### Icon Themes
+- **[Bearded Icons](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedicons)** - A sober theme of file icons for VS Code
+- **[Carbon Product Icons](https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon)** - Carbon Design System icons as product icons for VS Code
+
+Add to your VS Code settings:
+```json
+{
+  "workbench.iconTheme": "bearded-icons",
+  "workbench.productIconTheme": "icons-carbon"
+}
+```
 
 ## 🛠️ Customization
 

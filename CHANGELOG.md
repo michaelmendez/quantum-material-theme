@@ -7,6 +7,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.6] - 2025-10-13
+
+### Added
+- ✨ New Light Theme variant with clean, elegant colors
+- 📸 Separate screenshots for Dark and Light themes
+- 💡 Recommended setup section in README with:
+  - FiraCode Nerd Font configuration and download link
+  - Bearded Icons extension recommendation
+  - Carbon Product Icons extension recommendation
+- Bold font styling for better readability in Light theme
+
+### Changed
+- 🎨 Enhanced Light theme with deeper, more visible colors
+- 🔲 Removed all borders in Light theme for seamless appearance
+- 🏷️ Updated theme labels to include "(Dark)" and "(Light)" suffixes
+- 📝 Updated README with color palette comparison for both themes
+- 🖼️ Reorganized screenshots section with clear Dark/Light separation
+
+### Fixed
+- 🔧 Fixed transparency issues in Light theme editor overview ruler
+- 📦 Removed `sample-*` from .gitignore to include theme screenshots
+
 ## [0.0.5] - 2025-10-03
 
 ### Changed
